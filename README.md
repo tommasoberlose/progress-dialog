@@ -1,8 +1,12 @@
 # ProgressDialog
 A simple android library to show and hide a ProgressDialog.
 
-Gradle
-------
+<p align="center">
+  <img width="420" src="assets/img.gif"/>
+</p>
+
+## Gradle
+
 ```
 repositories {
     ...
@@ -15,14 +19,12 @@ dependencies {
 }
 ```
 
-Usage
------
+## Usage
 ```kotlin
     ProgressDialogFragment.showProgressBar(this)
 
     ProgressDialogFragment.hideProgressBar(this)
 ```
 
-License
--------
+## License
 MIT License

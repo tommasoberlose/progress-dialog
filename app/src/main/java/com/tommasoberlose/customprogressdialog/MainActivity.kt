@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
       Handler().postDelayed({
         ProgressDialogFragment.hideProgressBar(this)
-      }, 5000)
+      }, 2000)
     }
   }
 }
