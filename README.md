@@ -1,5 +1,4 @@
 # ProgressDialog
-===============
 A simple android library to show and hide a ProgressDialog.
 
 Gradle
